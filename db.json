@@ -1,0 +1,16 @@
+{
+  "course": [
+    {
+      "id": "Mr X",
+      "discripttion": 250
+    },
+    {
+      "id": "Mr Y",
+      "discripttion": 260
+    },
+    {
+      "id": "Mr Z",
+      "discripttion": 240
+    }
+  ]
+}
