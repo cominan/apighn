@@ -28,5 +28,16 @@
       "disc2": "  Nhà Sáng Lập & Tổng Giám Đốc Tiki",
       "textQuote": "GHN là một đối tác quan trọng với Tiki, giúp hàng hoá trên Tiki đến được với nhiều tỉnh xa, thậm chí đến cả những huyện đảo. Điều này mang đến sự thuận lợi rất lớn cho khách hàng, xoá bỏ được các rào cản về địa lý. "
     }
+  ],
+  "logo": [
+    {
+      "Lazada":"//theme.hstatic.net/200000472237/1000829412/14/logo_partner3.png?v=491",
+      "Sendo":"//theme.hstatic.net/200000472237/1000829412/14/logo_partner4.png?v=491",
+      "Haravan":"//theme.hstatic.net/200000472237/1000829412/14/logo_partner5.png?v=491",
+      "Shopee":"https://theme.hstatic.net/200000472237/1000829412/14/logo_partner6.png?v=491",
+      "Tiki":"https://theme.hstatic.net/200000472237/1000829412/14/logo_partner7.png?v=491",
+      "Vinamilk":"https://theme.hstatic.net/200000472237/1000829412/14/logo_partner8.png?v=491",
+      "Juno":"//theme.hstatic.net/200000472237/1000829412/14/logo_partner1.png?v=491"
+    }
   ]
 }
