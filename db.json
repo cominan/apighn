@@ -68,10 +68,10 @@
       "[GHN EXPRESS] NHÂN VIÊN GIAO NHẬN _ TRÀ VINH",
       "[GHN EXPRESS] QUẢN LÝ KHU VỰC _ BÌNH DƯƠNG - ĐỒNG NAI - VŨNG TÀU"
     ],
-    "location": {
-      "hcm": "--Hồ Chí MINH",
-      "hn": "--Hà Nội",
-      "dhcm": "--Bình Dương-Đồng Nai-Vũng Tàu"
-    }
+    "location": [
+       "--Hồ Chí MINH",
+       "--Hà Nội",
+      "--Bình Dương-Đồng Nai-Vũng Tàu"
+    ]
   }
 }
