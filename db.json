@@ -48,5 +48,30 @@
     {
       "name": "//theme.hstatic.net/200000472237/1000829412/14/logo_partner1.png?v=491"
     }
-  ]
+  ],
+  "recruit": {
+    "nameWork": [
+      "[GHN - HCM] HRBP TECH SPECIALIST",
+      "[GHN EXPRESS] NHÂN VIÊN GIAO NHẬN _ HỒ CHÍ MINH - BÌNH TÂN, BÌNH CHÁNH",
+      "[GHN EXPRESS] NHÂN VIÊN GIAO NHẬN _ HỒ CHÍ MINH - TÂN BÌNH, TÂN PHÚ",
+      "[GHN EXPRESS] NHÂN VIÊN GIAO NHẬN _ HỒ CHÍ MINH - QUẬN 7",
+      "[GHN EXPRESS] NHÂN VIÊN XỬ LÝ HÀNG HÓA _ HỒ CHÍ MINH - BÌNH TÂN",
+      "[GHN EXPRESS] NHÂN VIÊN XỬ LÝ HÀNG HÓA _ HỒ CHÍ MINH - QUẬN 7",
+      "[GHN EXPRESS] NHÂN VIÊN KINH DOANH _ HỒ CHÍ MINH",
+      "[GHN EXPRESS] NHÂN VIÊN GIAO NHẬN _ KHÁNH HÒA - NHA TRANG",
+      "[GHN EXPRESS] NHÂN VIÊN PHÁT TRIỂN THỊ TRƯỜNG _ ĐỒNG NAI - BIÊN HÒA",
+      "[GHN EXPRESS] NHÂN VIÊN GIAO NHẬN _ ĐỒNG NAI - LONG THÀNH, VĨNH CỬU, NHƠN TRẠCH",
+      "[GHN EXPRESS] NHÂN VIÊN PHÁT TRIỂN KINH DOANH _ BÌNH DƯƠNG",
+      "[GHN EXPRESS] NHÂN VIÊN GIAO NHẬN _ LÂM ĐỒNG - ĐÀ LẠT",
+      "[GHN EXPRESS] NHÂN VIÊN XỬ LÝ HÀNG HÓA _ ĐỒNG NAI - BIÊN HOÀ",
+      "[GHN EXPRESS] NHÂN VIÊN XỬ LÝ HÀNG HÓA _ BÌNH DƯƠNG - THUẬN AN",
+      "[GHN EXPRESS] NHÂN VIÊN GIAO NHẬN _ TRÀ VINH",
+      "[GHN EXPRESS] QUẢN LÝ KHU VỰC _ BÌNH DƯƠNG - ĐỒNG NAI - VŨNG TÀU"
+    ],
+    "location": {
+      "hcm": "--Hồ Chí MINH",
+      "hn": "--Hà Nội",
+      "dhcm": "--Bình Dương-Đồng Nai-Vũng Tàu"
+    }
+  }
 }
