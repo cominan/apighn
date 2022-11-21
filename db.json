@@ -72,13 +72,13 @@
       "--Hồ Chí MINH","--Hà Nội","--Bình Dương-Đồng Nai-Vũng Tàu"
     ],
     "informationUser": {
-      "fullname":"",
-      "email":"",
-      "phone":"",
-      "city":"",
-      "destrict":"",
-      "ward":"",
-      "adress":"",
+      "fullname":"h",
+      "email":"h",
+      "phone":"h",
+      "city":"h",
+      "destrict":"h",
+      "ward":"h",
+      "adress":"h",
       "averageOrder":""
     }
   }
