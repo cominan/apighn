@@ -69,17 +69,19 @@
       "[GHN EXPRESS] QUẢN LÝ KHU VỰC _ BÌNH DƯƠNG - ĐỒNG NAI - VŨNG TÀU"
     ],
     "location": [
-      "--Hồ Chí MINH","--Hà Nội","--Bình Dương-Đồng Nai-Vũng Tàu"
-    ],
-    "informationUser": {
-      "fullname":"h",
-      "email":"h",
-      "phone":"h",
-      "city":"h",
-      "destrict":"h",
-      "ward":"h",
-      "adress":"h",
-      "averageOrder":""
-    }
+      "--Hồ Chí MINH",
+      "--Hà Nội",
+      "--Bình Dương-Đồng Nai-Vũng Tàu"
+    ]
+  },
+  "informationUser": {
+    "fullname": "h",
+    "email": "h",
+    "phone": "h",
+    "city": "h",
+    "destrict": "h",
+    "ward": "h",
+    "adress": "h",
+    "averageOrder": ""
   }
 }
