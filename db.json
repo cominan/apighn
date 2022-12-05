@@ -75,13 +75,13 @@
     ]
   },
   "informationUser": {
-    "fullname": "h",
-    "email": "h",
-    "phone": "h",
-    "city": "h",
-    "destrict": "h",
-    "ward": "h",
-    "adress": "h",
+    "fullname": "",
+    "email": "",
+    "phone": "",
+    "city": "",
+    "destrict": "",
+    "ward": "",
+    "adress": "",
     "averageOrder": ""
   }
 }
